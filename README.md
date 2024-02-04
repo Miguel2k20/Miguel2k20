@@ -7,7 +7,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joao_miguel.mp3/)
 [![Wpp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+5447996641739&text=Ol%C3%A1+Miguel+vim+pelo+seu+Github%2C+pode+me+ajudar%3F)
 
-### Tecnologias que eu uso no meu dia a dia
 <div>
     <div style="display: flex; align-items: flex-end">
         <div style="width: 70%;">
