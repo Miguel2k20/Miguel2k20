@@ -27,9 +27,9 @@
             <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
             <img alt="bootstrap" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
         </div>
-        <div style="width: 30%;">
+<!--         <div style="width: 30%;">
             <img src="https://i.pinimg.com/originals/da/1a/37/da1a37155f1310278930d9e1095e4d11.gif" alt="GIF">
-        </div>
+        </div> -->
     </div>
 </div>
 
