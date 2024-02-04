@@ -1,7 +1,5 @@
 # Olá! Eu sou o Miguel, seja bem vindo ao meu perfil 🦇
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miguel2k20&show_icons=true&theme=dark) 
-
 ### Minhas redes sociais
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-miguel-mendon%C3%A7a-665334187/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joao_miguel.mp3/)
@@ -9,7 +7,7 @@
 
 <div>
     <div style="display: flex; align-items: flex-end">
-        <div style="width: 70%;">
+        <div style="width: 80%;">
             <h3>Minhas tecnlogias</h3>
             <div style="display: inline_block">
                 <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -26,10 +24,11 @@
             <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
             <img alt="bootstrap" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
         </div>
-<!--         <div style="width: 30%;">
+        <div style="width: 200px;">
             <img src="https://i.pinimg.com/originals/da/1a/37/da1a37155f1310278930d9e1095e4d11.gif" alt="GIF">
-        </div> -->
+        </div>
     </div>
 </div>
 
 ##
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miguel2k20&show_icons=true&theme=dark) 
