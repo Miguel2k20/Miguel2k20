@@ -28,5 +28,5 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joao_miguel.mp3/)
 [![Wpp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+5547991961739&text=Ol%C3%A1+Miguel+vim+pelo+seu+Github%2C+pode+me+ajudar%3F)
 <div>
-<img style="width: 150px;margin-left: 2rem;" src="https://i.pinimg.com/originals/da/1a/37/da1a37155f1310278930d9e1095e4d11.gif" alt="GIF">
+<!-- <img style="width: 150px;margin-left: 2rem;" src="https://i.pinimg.com/originals/da/1a/37/da1a37155f1310278930d9e1095e4d11.gif" alt="GIF"> -->
 </div>
